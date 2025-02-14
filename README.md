@@ -1,8 +1,8 @@
-![Prince Pandit - Data Analyst | AI & DS Graduate](https://via.placeholder.com/1200x300.png?text=Prince+Pandit+|+Data+Analyst+and+AI+Enthusiast)
+![Prince Pandit - Data Analyst | Business Analyst | Machine Learing Engineer| AI & DS Graduate](https://raw.githubusercontent.com/PrincePandit16/PrincePandit16/refs/heads/main/banner.webp)
 
 # Hi there 👋 I'm Prince Pandit  
 
-🎓 **Aspiring Data Analyst | AI & DS Undergraduate**  
+🎓 **Aspiring Data Analyst | Business Analyst | Machine Learning Engineer | AI & DS Undergraduate**  
 📍 **Pursuing Bachelors in Artificial Intelligence and Data Science at Sandip Foundation**  
 📊 Passionate about transforming raw data into actionable insights through innovative analysis and visualization techniques.  
 🔗 **[Visit My GitHub Profile](https://github.com/prince-pandit)**  
