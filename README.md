@@ -33,7 +33,6 @@
 
 ## 📫 Get in Touch  
 - **Email**: [kumarprince16062002@gmail.com](mailto:kumarprince16062002@gmail.com)  
-- **Phone**: +91 7802857161  
 - **GitHub**: [github.com/prince-pandit](https://github.com/PrincePandit16)  
 - **LinkedIn**: [linkedin.com/in/prince-pandit](https://linkedin.com/in/prince200)  
 
