@@ -1,4 +1,4 @@
-![Prince Pandit - Data Analyst | Business Analyst | Machine Learing Engineer| AI & DS Graduate](https://raw.githubusercontent.com/PrincePandit16/PrincePandit16/refs/heads/main/banner.webp)
+-- ![Prince Pandit - Data Analyst | Business Analyst | Machine Learing Engineer| AI & DS Graduate](https://raw.githubusercontent.com/PrincePandit16/PrincePandit16/refs/heads/main/banner.webp)
 
 # Hi there 👋 I'm Prince Pandit  
 
