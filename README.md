@@ -19,17 +19,23 @@
 - **AI & Machine Learning**: Applied knowledge through coursework and hands-on projects  
 - **Soft Skills**: Strong analytical mindset, critical problem-solving, and a constant drive for learning  
 
-## 🌟 Highlighted Projects  
-1. **Customer Engagement Analytics**  
+## 🌟 Highlighted Projects
+1. **Talking Healthcare Bot**  
+   - Developed a conversational healthcare bot designed to provide medical assistance, symptom checking, and personalized health recommendations. 
+   - Tools: Python, VS Code etc.  
+   
+
+2. **Customer Engagement Analytics**  
    - Analyzed large-scale customer data to identify trends, develop strategies, and deliver actionable insights to improve engagement.  
-   - Tools: Python, SQL, Power BI  
+   - Tools: Python, SQL, Power BI etc.
 
-2. **Academic Machine Learning Projects**  
-   - Explored machine learning techniques through statistical modeling and coursework assignments, focusing on innovative solutions.  
+3. **Academic Machine Learning Projects**  
+   - Explored machine learning techniques through statistical modeling and coursework assignments, focusing on innovative solutions.
+   - Tools: Python, Jupyter Notebook etc. 
 
-3. **Business Performance Analysis**  
+4. **Business Performance Analysis**  
    - Evaluated business metrics to provide strategic insights into operational efficiencies and growth opportunities.  
-   - Tools: Excel, Power BI  
+   - Tools: Excel, Power BI etc. 
 
 ## 📫 Get in Touch  
 - **Email**: [kumarprince16062002@gmail.com](mailto:kumarprince16062002@gmail.com)  
