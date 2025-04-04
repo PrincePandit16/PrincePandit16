@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Pandit</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princepandit&label=Profile%20views&color=0e75b6&style=flat" alt="princepandit" /> </p>
 
@@ -71,4 +70,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princepandit&" alt="princepandit" /></p>
 
-<p><img align="center" src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" alt="princepandit" /></p>
+
