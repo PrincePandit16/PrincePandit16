@@ -45,7 +45,7 @@
    - Tools: Excel, Power BI etc.
    
 
-- 📧 How to reach me **iamprince1606@gmail.com**
+- 📧 How to reach me **kumarprince16062002@gmail.com**
 - **GitHub**: [github.com/prince-pandit](https://github.com/PrincePandit16)  
 - **LinkedIn**: [linkedin.com/in/prince-pandit](https://linkedin.com/in/prince200)  
 
