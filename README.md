@@ -26,24 +26,6 @@
 - **Soft Skills**: Strong analytical mindset, critical problem-solving, and a constant drive for learning
 
 
-## 🌟 Highlighted Projects
-1. **Talking Healthcare Bot**  
-   - Developed a conversational healthcare bot designed to provide medical assistance, symptom checking, and personalized health recommendations. 
-   - Tools: Python, VS Code etc.  
-   
-
-2. **Customer Engagement Analytics**  
-   - Analyzed large-scale customer data to identify trends, develop strategies, and deliver actionable insights to improve engagement.  
-   - Tools: Python, SQL, Power BI etc.
-
-3. **Academic Machine Learning Projects**  
-   - Explored machine learning techniques through statistical modeling and coursework assignments, focusing on innovative solutions.
-   - Tools: Python, Jupyter Notebook etc. 
-
-4. **Business Performance Analysis**  
-   - Evaluated business metrics to provide strategic insights into operational efficiencies and growth opportunities.  
-   - Tools: Excel, Power BI etc.
-   
 
 - 📧 How to reach me **kumarprince16062002@gmail.com**
 - **GitHub**: [github.com/prince-pandit](https://github.com/PrincePandit16)  
@@ -51,7 +33,6 @@
 
 - ⚡ Fun fact **I love gain insights from data to uncover hidden insights!**
 
-![logo](https://github.com/Ritu84/Ritu84-/blob/main/snake%20gif.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
