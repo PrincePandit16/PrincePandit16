@@ -1,54 +1,96 @@
-<h1 align="center">Hi 👋, I'm Prince Pandit</h1>
-<h3 align="center">A passionate AI/ML Enthusiast from India</h3>
+<div align="center">
 
+# Hey there, I'm Prince Pandit 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princepandit&label=Profile%20views&color=0e75b6&style=flat" alt="princepandit" /> </p>
+### AI/ML Engineer · Deep Learning · LLMs · Data Science
 
-- 🔬 I’m currently working on **Data Analysis and Machine Learning Projects**
+[![Profile Views](https://komarev.com/ghpvc/?username=PrincePandit16&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/PrincePandit16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prince200-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince200)
+[![Email](https://img.shields.io/badge/Email-kumarprince16062002%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumarprince16062002@gmail.com)
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+</div>
 
-🎓 **Aspiring Machine Learning Engineer | AI Developer | AI & DS Undergraduate**  
-📍 **Pursuing Bachelors in Artificial Intelligence and Data Science at Sandip Foundation**  
-🔗 **[Visit My GitHub Profile](https://github.com/prince-pandit)**  
+---
 
+## 🧠 About Me
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, and AI**
-- 🔍 Skilled in **Python**, **SQL**, **Power BI**, and **Excel** for data analysis, statistical modeling, and visualization.  
-- 🚀 Developed projects analyzing large datasets, such as identifying customer trends and recommending strategies to enhance engagement.  
-- 💡 Eager to solve real-world problems by leveraging data to drive meaningful decisions.  
-- 💼 Open to roles as a **Machine Learning Engineer** or **AI Developer**, combining technical skills with strategic thinking to deliver results.  
+I'm an **AI & Data Science undergraduate** at Sandip Foundation, building real-world ML and AI systems from scratch — not just following tutorials.
 
-## 🛠️ Skills and Tools  
-- **Programming & Analysis**: Python, SQL  
-- **Data Visualization**: Power BI, Excel  
-- **AI & Machine Learning**: Applied knowledge through coursework and hands-on projects  
-- **Soft Skills**: Strong analytical mindset, critical problem-solving, and a constant drive for learning
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🔬 Currently working on **Machine Learning & Data Analysis projects**
+- 🌱 Deepening expertise in **Deep Learning, LLMs, and Generative AI**
+- 💼 Open to roles as **ML Engineer** or **AI Developer**
+- 💡 I believe in solving genuine problems — every project here started with a real pain point
+- ⚡ Fun fact: I love finding hidden patterns in data that nobody else noticed
 
+---
 
+## 🚀 Featured Projects
 
-- 📧 How to reach me **kumarprince16062002@gmail.com**
-- **GitHub**: [github.com/prince-pandit](https://github.com/PrincePandit16)  
-- **LinkedIn**: [linkedin.com/in/prince-pandit](https://linkedin.com/in/prince200)  
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Clinic NL2SQL API**](https://github.com/PrincePandit16) | Translates plain English to SQL — so non-technical clinic staff can query patient data instantly | FastAPI · LLM · Prompt Eng. · Python |
+| [**FastAPI Task Manager**](https://github.com/PrincePandit16) | Production-grade REST API with JWT auth, SQLAlchemy & clean architecture | FastAPI · SQLAlchemy · Pydantic · JWT |
+| [**TweetForge**](https://github.com/PrincePandit16) | LLM-powered tweet thread & content calendar generator from a single topic input | LangChain · OpenAI API · FastAPI |
+| [**AI Email Classifier**](https://github.com/PrincePandit16/AI_Email_Classifier) | Auto-categorises emails into support / sales / spam / urgent using NLP | scikit-learn · TF-IDF · NLP · Python |
+| [**ANN Customer Churn Predictor**](https://github.com/PrincePandit16/ANN-Customer-Churn-Prediction) | End-to-end ANN model predicting bank customer churn, deployed as a live Streamlit app | TensorFlow · Keras · Streamlit · Pandas |
+| [**Talking Healthcare Chatbot**](https://github.com/PrincePandit16/talking-healthcare-bot) | Voice-enabled chatbot for symptom-based diagnosis using NLP + neural network | TensorFlow · NLTK · SpeechRecognition · pyttsx3 |
 
-- ⚡ Fun fact **I love gain insights from data to uncover hidden insights!**
+---
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/princepandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princepandit" height="30" width="40" /></a>
-</p>
+**Languages & Databases**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**AI / ML / DL**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white)
 
+**Data & Visualization**
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrincePandit16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePandit16&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PrincePandit16&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince200)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrincePandit16)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarprince16062002@gmail.com)
+
+*Open to internships, collaborations, and full-time ML/AI opportunities.*
+
+</div>
