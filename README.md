@@ -99,6 +99,6 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 </p>
 
 <h3 align="center">
-🚀 Open to internships, collaborations, and AI/ML opportunities.
+🚀 Open to internships, collaborations, and opportunities.
 </h3>
 
