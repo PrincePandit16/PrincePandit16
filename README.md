@@ -31,7 +31,7 @@ I'm an AI Engineer passionate about building intelligent systems that solve real
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
-| [AI Competitive Intelligence Agent](https://github.com/PrincePandit16) | AI-powered research agent that analyzes startups, competitors, and market trends using LLM workflows and automated research pipelines. | LangGraph · FastAPI · LLMs · Python |
+| [AI Competitive Intelligence Agent](https://github.com/PrincePandit16/AI_Competitive_Intelligence_Agent) | AI-powered research agent that analyzes startups, competitors, and market trends using LLM workflows and automated research pipelines. | LangGraph · FastAPI · LLMs · Python |
 | [Clinic NL2SQL API](https://github.com/PrincePandit16) | Converts natural language into SQL queries so non-technical users can interact with databases easily. | FastAPI · Gemini API · SQL · Python |
 | [AI Email Classifier](https://github.com/PrincePandit16/AI_Email_Classifier) | NLP-based system that classifies emails into categories such as spam, urgent, sales, and support. | Scikit-learn · TF-IDF · NLP · Python |
 | [ANN Customer Churn Predictor](https://github.com/PrincePandit16/ANN-Customer-Churn-Prediction) | Deep learning model that predicts customer churn with an interactive deployment using Streamlit. | TensorFlow · Keras · Streamlit |
